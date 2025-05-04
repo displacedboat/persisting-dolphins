@@ -1,0 +1,6 @@
+name: PersistingDolphins
+version: '1.0.0'
+main: io.github.displacedboat.persistingDolphins.PersistingDolphins
+api-version: '1.21'
+authors: [ Tyler ]
+description: Prevents named dolphins from dying of drowning or suffocation when outside simulation range
